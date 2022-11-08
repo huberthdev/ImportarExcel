@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportarExcel", "ImportarExcel.csproj", "{52C916F4-F365-4658-9FDB-BCF522682D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C916F4-F365-4658-9FDB-BCF522682D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C916F4-F365-4658-9FDB-BCF522682D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C916F4-F365-4658-9FDB-BCF522682D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C916F4-F365-4658-9FDB-BCF522682D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0437499D-9491-4262-B412-F3803AF884BB}
+	EndGlobalSection
+EndGlobal
