@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace ExcelBancoDeDadosSQLServer
+namespace ImportarExcel
 {
     public class DataBase
     {
